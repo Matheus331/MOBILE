@@ -1,0 +1,7 @@
+body,html,div{
+  height:100%;
+}
+#teste{
+height:50%;
+background-color:blue;
+}
